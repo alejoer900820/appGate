@@ -1,0 +1,1 @@
+insert into book(title,genre,author,totalPrice,publisher,fecha)values('cien años de soledad','realismo mágico','Gabriel García Marquez', 50000, 'Norma',to_date('09/11/1956','dd/MM/yyyy'));
